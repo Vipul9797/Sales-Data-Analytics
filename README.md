@@ -1,5 +1,5 @@
 # Sales-Data-Analytics
-1. Convert 'Order Date' column to datetime
+1. Reading dataset and basic exploratory analysis & Convert 'Order Date' column to datetime
 
 2. Extract month and year from 'Order Date' for analysis
 
