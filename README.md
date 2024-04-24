@@ -1,20 +1,26 @@
 # Sales-Data-Analytics
-Convert 'Order Date' column to datetime
+1. Convert 'Order Date' column to datetime
 
-Extract month and year from 'Order Date' for analysis
+2. Extract month and year from 'Order Date' for analysis
 
-Sales Trends Over Time
+3. Sales Trends Over Time
 
-Best-selling Products
+4. Best-selling Products
 
-Sales Trend Graph
+5. Sales Trend Graph
 
-Best-selling Products Chart
+6. Best-selling Products Chart
 
-Customer Segmentation & its Chart.
+7. Customer Segmentation & its Chart.
 
-Discount Analysis 7 its Chart.
+8. Discount Analysis 7 its Chart.
 
-Order Priority Analysis and its visualization.
+9. Order Priority Analysis and its visualization.
+
+10. Shipping Cost Analysis - Histogram
+
+11. Geographical Analysis and its Chart
+
+
 
 
